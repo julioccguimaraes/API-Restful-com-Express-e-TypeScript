@@ -1,0 +1,156 @@
+2022-07-09 11:18:27:1827 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:20:09:209 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:20:09:209 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:21:09:219 - [31merror[39m: [31mErro ao connectar ao BD[39m
+2022-07-09 11:21:09:219 - [31merror[39m: [31mbad auth : Authentication failed.[39m
+2022-07-09 11:21:09:219 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:21:52:2152 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:21:52:2152 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:31:34:3134 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:31:34:3134 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:32:46:3246 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:32:46:3246 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:33:39:3339 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:33:39:3339 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:33:42:3342 - [35mhttp[39m: [35mGET /api/test - - 1.594 ms[39m
+[35m[39m
+2022-07-09 11:55:14:5514 - [35mhttp[39m: [35mPOST /api/movie - - 1.954 ms[39m
+[35m[39m
+2022-07-09 11:56:49:5649 - [35mhttp[39m: [35mPOST /api/movie - - 0.942 ms[39m
+[35m[39m
+2022-07-09 11:56:56:5656 - [35mhttp[39m: [35mGET /test - - 0.240 ms[39m
+[35m[39m
+2022-07-09 11:57:02:572 - [35mhttp[39m: [35mGET /api/test - - 0.390 ms[39m
+[35m[39m
+2022-07-09 11:57:07:577 - [35mhttp[39m: [35mGET /api/movie - - 0.360 ms[39m
+[35m[39m
+2022-07-09 11:57:26:5726 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 11:57:26:5726 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 11:57:29:5729 - [35mhttp[39m: [35mGET /api/movie - - 2.101 ms[39m
+[35m[39m
+2022-07-09 11:57:34:5734 - [35mhttp[39m: [35mPOST /api/movie - - 1.491 ms[39m
+[35m[39m
+2022-07-09 12:00:37:037 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:00:37:037 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:01:17:117 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:01:17:117 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:01:26:126 - [35mhttp[39m: [35mPOST /api/movie - - 30.218 ms[39m
+[35m[39m
+2022-07-09 12:01:55:155 - [35mhttp[39m: [35mPOST /api/movie - - 19.977 ms[39m
+[35m[39m
+2022-07-09 12:05:53:553 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:05:53:553 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:11:56:1156 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:11:56:1156 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:14:17:1417 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:14:17:1417 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:17:32:1732 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:17:32:1732 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:18:18:1818 - [35mhttp[39m: [35mPOST /api/movie - - 3.809 ms[39m
+[35m[39m
+2022-07-09 12:50:47:5047 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:50:47:5047 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:50:52:5052 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:50:52:5052 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:50:54:5054 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:50:54:5054 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:51:04:514 - [35mhttp[39m: [35mPOST /api/movie - - 6.735 ms[39m
+[35m[39m
+2022-07-09 12:52:21:5221 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:52:21:5221 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:52:51:5251 - [35mhttp[39m: [35mPOST /api/movie - - 4.440 ms[39m
+[35m[39m
+2022-07-09 12:53:20:5320 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:53:20:5320 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:53:31:5331 - [35mhttp[39m: [35mPOST /api/movie - - 35.383 ms[39m
+[35m[39m
+2022-07-09 12:53:42:5342 - [35mhttp[39m: [35mPOST /api/movie - - 29.082 ms[39m
+[35m[39m
+2022-07-09 12:53:55:5355 - [35mhttp[39m: [35mPOST /api/movie - - 32.822 ms[39m
+[35m[39m
+2022-07-09 12:55:26:5526 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:55:26:5526 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:56:06:566 - [35mhttp[39m: [35mPOST /api/movie - - 4.835 ms[39m
+[35m[39m
+2022-07-09 12:56:10:5610 - [35mhttp[39m: [35mPOST /api/movie - - 37.097 ms[39m
+[35m[39m
+2022-07-09 12:56:39:5639 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:56:39:5639 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:57:09:579 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:57:09:579 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:57:12:5712 - [35mhttp[39m: [35mPOST /api/movie - - 4.777 ms[39m
+[35m[39m
+2022-07-09 12:57:50:5750 - [35mhttp[39m: [35mPOST /api/movie - - 30.749 ms[39m
+[35m[39m
+2022-07-09 12:58:37:5837 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 12:58:37:5837 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 12:58:42:5842 - [35mhttp[39m: [35mPOST /api/movie - - 6.014 ms[39m
+[35m[39m
+2022-07-09 12:58:55:5855 - [35mhttp[39m: [35mPOST /api/movie - - 30.920 ms[39m
+[35m[39m
+2022-07-09 12:59:13:5913 - [35mhttp[39m: [35mPOST /api/movie - - 17.947 ms[39m
+[35m[39m
+2022-07-09 13:00:06:06 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:00:06:06 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:00:28:028 - [35mhttp[39m: [35mPOST /api/movie - - 5.098 ms[39m
+[35m[39m
+2022-07-09 13:01:28:128 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:01:28:128 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:01:59:159 - [35mhttp[39m: [35mPOST /api/movie - - 6.608 ms[39m
+[35m[39m
+2022-07-09 13:03:40:340 - [35mhttp[39m: [35mPOST /api/movie - - 34.529 ms[39m
+[35m[39m
+2022-07-09 13:04:50:450 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:04:50:450 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:08:35:835 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:08:35:835 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:09:57:957 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:09:57:957 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:11:21:1121 - [35mhttp[39m: [35mGET /api/movie/62c9a6dc75a5e4e23f9c63e9 - - - ms[39m
+[35m[39m
+2022-07-09 13:12:17:1217 - [35mhttp[39m: [35mGET /api/movie/62c9a6dc75a5e4e23f9c63e9 - - - ms[39m
+[35m[39m
+2022-07-09 13:13:37:1337 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:13:37:1337 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:14:02:142 - [35mhttp[39m: [35mGET /api/movie/62c9a6dc75a5e4e23f9c63e9 - - 25.871 ms[39m
+[35m[39m
+2022-07-09 13:15:29:1529 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:15:29:1529 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:15:55:1555 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:15:55:1555 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:16:22:1622 - [35mhttp[39m: [35mGET /api/movie - - 29.524 ms[39m
+[35m[39m
+2022-07-09 13:20:00:200 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:20:00:200 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:20:35:2035 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:20:35:2035 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:21:55:2155 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:21:55:2155 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:22:18:2218 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:22:18:2218 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:22:29:2229 - [35mhttp[39m: [35mDELETE /api/movie/62c9a493b508071fc48be86c - - 60.364 ms[39m
+[35m[39m
+2022-07-09 13:22:33:2233 - [35mhttp[39m: [35mGET /api/movie - - 18.086 ms[39m
+[35m[39m
+2022-07-09 13:22:56:2256 - [35mhttp[39m: [35mDELETE /api/movie/62c9a57e0d39e3b21d589166 - - 30.341 ms[39m
+[35m[39m
+2022-07-09 13:22:59:2259 - [35mhttp[39m: [35mGET /api/movie - - 13.919 ms[39m
+[35m[39m
+2022-07-09 13:23:15:2315 - [35mhttp[39m: [35mDELETE /api/movie/62c9a5d11fca527a511f0359 - - 31.930 ms[39m
+[35m[39m
+2022-07-09 13:26:21:2621 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:26:21:2621 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:27:21:2721 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:27:21:2721 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:30:17:3017 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:30:17:3017 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:30:24:3024 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:30:24:3024 - [32minfo[39m: [32mserver is running[39m
+2022-07-09 13:31:38:3138 - [35mhttp[39m: [35mGET /api/movie - - 24.674 ms[39m
+[35m[39m
+2022-07-09 13:31:49:3149 - [35mhttp[39m: [35mPATCH /api/movie/62c9a6dc75a5e4e23f9c63e9 - - 50.473 ms[39m
+[35m[39m
+2022-07-09 13:31:54:3154 - [35mhttp[39m: [35mGET /api/movie - - 15.272 ms[39m
+[35m[39m
+2022-07-09 13:34:18:3418 - [32minfo[39m: [32mConexão ao BD com sucesso[39m
+2022-07-09 13:34:18:3418 - [32minfo[39m: [32mserver is running[39m
